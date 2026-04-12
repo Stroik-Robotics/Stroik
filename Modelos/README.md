@@ -1,3 +1,0 @@
-# Stroik
-Tu mundo robotico 
-
