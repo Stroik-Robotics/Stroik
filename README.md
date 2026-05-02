@@ -1,2 +1,2 @@
 # Stroik
-#enlace INTRODUCCION¡
+[INTRODUCCION](#enlace)
